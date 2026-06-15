@@ -1,0 +1,9 @@
+sentence-transformers
+faiss-cpu
+transformers
+torch
+numpy
+python-docx
+tiktoken
+# 8B GGUF eval only (compiles llama.cpp; install separately if needed):
+# llama-cpp-python

@@ -1,0 +1,21 @@
+# big / regenerable artifacts — keep these out of git
+index/
+models/
+specs/
+chunks.jsonl
+chunks_clean.jsonl
+chunks_core.jsonl
+eval_results/
+*.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# os
+.DS_Store
+chunks_dedup.jsonl
+chunks_dedup.jsonl
