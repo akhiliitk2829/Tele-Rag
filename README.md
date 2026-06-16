@@ -96,8 +96,6 @@ A 4-bit 8B model running entirely on a laptop lands above GPT-3.5 and GPT-4's
 no-retrieval scores on hard 3GPP standards questions, and approaches GPT-4's
 standards-category figure — without any GPU or cloud API.
 
-> The 57.3% figure is measured over 722 of the 1,810 questions (the evaluation
-> run was stopped early); the sample spans all releases and both categories.
 
 References: TeleQnA (arXiv:2310.15051), TSpec-LLM (arXiv:2406.01768),
 Tele-LLMs (arXiv:2409.05314), Telco-RAG (arXiv:2404.15939).
